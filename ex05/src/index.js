@@ -4,7 +4,6 @@ function main(){
     myString += "one string to the end of another string.";
     //Only change code above this line 
     return myString;
-    var mi = jf;
 }
 
 console.log(main());
